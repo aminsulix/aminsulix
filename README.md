@@ -36,7 +36,7 @@ Building developer productivity tooling, visual workflow automation studios, bid
   3. **Right Pane — Real-Time Execution Telemetry & Interactive Human-in-the-Loop (`suspend()`) Approval Gate (`resolveHitlGate`)**
 - **W3C Draft WebMCP Integration**: Implements both declarative HTML (`<form toolname="assign_new_agent" ... toolautosubmit>`) and imperative (`navigator.modelContext.registerTool`) W3C WebMCP contracts (`load_agent_preset`, `resolve_hitl_gate`).
 - **Dual-Mode "Precision Autonomous Craft" Design System**: Semantic CSS3 custom properties (`styles/tokens-and-base.css`, `styles/components.css`) supporting zero-FOUC switching between **Obsidian Dark (`#07090E`)** and **Alabaster Light (`#FAFAFA`)** with WCAG AAA/AA (`19.1:1`) contrast ratios.
-- **Zero-Secret Deterministic Local Runtime**: Runs 100% offline (`python3 -m http.server 8788`) with zero API keys, zero external credentials, and an immutable `dev.md/` SHA-256 engineering checkpoint ledger.
+- **Zero-Secret Deterministic Local Runtime**: Runs 100% offline (`python3 -m http.server 8788`) with zero API keys and zero external credentials.
 
 🔗 **Explore the Repository & Architecture**: **[https://github.com/aminsulix/assignbotai](https://github.com/aminsulix/assignbotai)**
 
