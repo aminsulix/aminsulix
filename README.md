@@ -1,12 +1,48 @@
-# Hi there, I'm Amin Suliman 👋
+# Hi there, I'm Amin Suliman (@aminsulix) 👋
 
-### Founder & Lead Engineer at [Gen AI X App](https://genaixapp.com)
+### Full-Stack Software Engineer — Workflow Automation Studios, TypeScript Compilers & Native Mobile Architecture
 
-Building autonomous AI agents and developer infrastructure for native mobile app generation.
+Building developer productivity tooling, visual workflow automation studios, bidirectional TypeScript code generators, and cross-platform mobile applications.
 
 ---
 
-## 🚀 Featured Project: Gen AI X App
+## ⚡ Featured Personal Open-Source Project: [Assign Bot AI](https://github.com/aminsulix/assignbotai)
+
+### **Visual Workflow Automation Studio & Bidirectional TypeScript Code Generator**
+
+> **"Describe the job in plain English. Inspect the 5-node visual workflow DAG. Compile portable TypeScript/Mastra code. Enforce Human-in-the-Loop approval gates before execution."**
+
+<div align="left">
+  <a href="https://github.com/aminsulix/assignbotai">
+    <img src="https://img.shields.io/badge/Repository-aminsulix%2Fassignbotai-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Assign Bot AI Repository" />
+  </a>
+  <a href="https://github.com/aminsulix/assignbotai/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/Ownership-Personal_Open--Source_(MIT)-10B981?style=for-the-badge" alt="Personal Open-Source MIT" />
+  </a>
+  <a href="https://github.com/aminsulix/assignbotai/blob/main/scripts/agent-studio.js">
+    <img src="https://img.shields.io/badge/Compiler-AssignBotAgentIR_%E2%86%94_TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=white" alt="AssignBotAgentIR Compiler" />
+  </a>
+  <a href="https://github.com/aminsulix/assignbotai/blob/main/index.html">
+    <img src="https://img.shields.io/badge/Standard-W3C_WebMCP_Runtime-8B5CF6?style=for-the-badge&logo=w3c&logoColor=white" alt="W3C WebMCP Runtime" />
+  </a>
+</div>
+
+### Why [Assign Bot AI](https://github.com/aminsulix/assignbotai)?
+
+**[Assign Bot AI](https://github.com/aminsulix/assignbotai)** is a **100% personally owned, MIT-licensed open-source project** architected and built by **Amin Suliman (`@aminsulix`)** with zero corporate, employer, or client affiliation:
+- **Unified Intermediate Representation (`AssignBotAgentIR`)**: Compiles natural-language workflow prompts (`compileCustomPromptToIR`) into a single state tree that simultaneously drives a 3-pane split studio:
+  1. **Left Pane — Conversational Architect & Point-and-Prompt Node Editor**
+  2. **Center Pane — Interactive 5-Node Visual DAG Canvas & Live TypeScript / Mastra Code Compiler (`generateTypeScriptFromIR`)**
+  3. **Right Pane — Real-Time Execution Telemetry & Interactive Human-in-the-Loop (`suspend()`) Approval Gate (`resolveHitlGate`)**
+- **W3C Draft WebMCP Integration**: Implements both declarative HTML (`<form toolname="assign_new_agent" ... toolautosubmit>`) and imperative (`navigator.modelContext.registerTool`) W3C WebMCP contracts (`load_agent_preset`, `resolve_hitl_gate`).
+- **Dual-Mode "Precision Autonomous Craft" Design System**: Semantic CSS3 custom properties (`styles/tokens-and-base.css`, `styles/components.css`) supporting zero-FOUC switching between **Obsidian Dark (`#07090E`)** and **Alabaster Light (`#FAFAFA`)** with WCAG AAA/AA (`19.1:1`) contrast ratios.
+- **Zero-Secret Deterministic Local Runtime**: Runs 100% offline (`python3 -m http.server 8788`) with zero API keys, zero external credentials, and an immutable `dev.md/` SHA-256 engineering checkpoint ledger.
+
+🔗 **Explore the Repository & Architecture**: **[https://github.com/aminsulix/assignbotai](https://github.com/aminsulix/assignbotai)**
+
+---
+
+## 🚀 Mobile Engineering Showcase: [Gen AI X App](https://genaixapp.com)
 
 ### **The Autonomous AI Agent for Native Mobile Apps (Flutter & Dart)**
 
@@ -60,6 +96,7 @@ Explore specialized solutions, architectural breakdowns, and competitor matrices
 
 | Solution & Guide | Primary Focus | Direct Link |
 | :--- | :--- | :--- |
+| **Assign Bot AI Studio** | Open-source visual workflow automation studio, `AssignBotAgentIR` compiler & W3C WebMCP runtime. | [github.com/aminsulix/assignbotai](https://github.com/aminsulix/assignbotai) |
 | **Mobile Vibe Coding** | Conversational prompt-to-app development for iOS & Android with physical device testing. | [genaixapp.com/vibe-coding](https://genaixapp.com/vibe-coding) |
 | **AI Flutter App Builder** | Multi-screen Flutter project synthesis, Dart 3 state architecture, and cloud compiler builds. | [genaixapp.com/flutter-app-builder](https://genaixapp.com/flutter-app-builder) |
 | **AI Coding Agents** | Autonomous agentic loop: multi-file planning, compiler diagnostics, and self-repair. | [genaixapp.com/ai-coding-agents](https://genaixapp.com/ai-coding-agents) |
@@ -68,77 +105,11 @@ Explore specialized solutions, architectural breakdowns, and competitor matrices
 
 ---
 
-### ⚔️ Head-to-Head Architecture Comparisons
-
-See how Gen AI X App compares to alternative platforms:
-
-- **[vs Lovable](https://genaixapp.com/compare/lovable)** — Native Flutter/Dart mobile apps & cloud APK builds vs React/Vite web apps.
-- **[vs Rork](https://genaixapp.com/compare/rork)** — Compiled Flutter ARM64 60fps Impeller engine vs React Native JavaScript bridges.
-- **[vs Replit Agent](https://genaixapp.com/compare/replit)** — Dedicated mobile app compiler & QR device testing vs general cloud IDE.
-- **[vs CodeSpring](https://genaixapp.com/compare/codespring)** — Autonomous prompt-to-app workflow vs developer boilerplate scaffolding.
-- **[vs FlutterFlow](https://genaixapp.com/compare/flutterflow)** — Conversational AI vibe coding in 2–5 minutes vs weeks of manual drag-and-drop node wiring.
-
----
-
-### 📸 Product Showcase
-
-#### 1. From App Idea to Mobile App in Minutes
-*Prompt the autonomous app-building agent with any mobile application concept, business workflow, or UI specification.*
-
-<p align="center">
-  <img src="https://genaixapp.com/showcase/github/homepage-hero.png" alt="Gen AI X App Homepage" width="900" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
-</p>
-
----
-
-#### 2. Agent Studio & Interactive Device Simulator
-*Dual-pane workspace featuring conversational agent planning, live code exploration, platform toggles for iOS & Android, and 1-click high-DPI screenshots.*
-
-<p align="center">
-  <img src="https://genaixapp.com/showcase/github/workspace-preview.png" alt="AI Agent Workspace" width="900" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
-</p>
-
----
-
-#### 3. Real-Time Compilation & Physical On-Device Testing
-*Watch the agent plan features, resolve compiler diagnostics via self-repair loops, and compile full applications with instant QR code scanning for real hardware testing.*
-
-<p align="center">
-  <img src="https://genaixapp.com/showcase/github/instagram-clone-built.png" alt="AI Agent Building Instagram Clone" width="900" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" />
-</p>
-
----
-
-### ⚡ Core Architecture & Engineering Highlights
-
-- 🤖 **Autonomous Multi-Turn Agent**: Employs structured tool calls to plan, generate, and maintain multi-file Flutter code trees.
-- 📱 **Interactive In-Browser Simulator**: Test, touch, scroll, and interact with the compiled mobile app in real-time with realistic iPhone chassis and Dynamic Island.
-- 📲 **Instant QR Code On-Device Testing**: Scan a QR code to run the generated native mobile app directly on your physical iPhone or Android device.
-- 🔁 **Self-Healing Compiler Loop**: Google Cloud Run micro-compiler inspects compilation diagnostics and triggers targeted self-repair turns.
-- 🔄 **1-Click GitHub Synchronization**: Seamlessly sync your generated codebase directly to private or public GitHub repositories for complete code ownership.
-- 💳 **Production Billing & Rollover Protection**: Stripe Billing integration supporting weekly subscription tiers and non-expiring credit packs with 12-month rollover protection.
-
----
-
-### 🛠️ Built With
-
-- **Frontend & App Framework**: Next.js 16 (App Router, Server Components), React 19, TypeScript, Tailwind CSS 4, Framer Motion
-- **Mobile Engine**: Flutter, Dart 3, Snack SDK, WebAssembly
-- **Backend & Cloud Infrastructure**: Google Cloud Run (4 vCPU / 4 GB RAM Compiler), Firebase (Auth, Firestore, Cloud Functions Gen 2, Edge Hosting)
-- **Monetization & SaaS**: Stripe API (Weekly Subscriptions, Customer Portal, Webhooks, Rollover Credit Ledger)
-
----
-
 ### 🔗 Quick Links
 
-- 🌐 **Live Platform**: [genaixapp.com](https://genaixapp.com)
+- 🛠️ **Assign Bot AI Repository (Personal Open-Source)**: [github.com/aminsulix/assignbotai](https://github.com/aminsulix/assignbotai)
+- 🌐 **Gen AI X App Platform**: [genaixapp.com](https://genaixapp.com)
 - 📖 **Documentation**: [genaixapp.com/docs](https://genaixapp.com/docs)
 - ⚙️ **How It Works**: [genaixapp.com/how-it-works](https://genaixapp.com/how-it-works)
 - 💎 **Pricing & Credit Plans**: [genaixapp.com/pricing](https://genaixapp.com/pricing)
 - ❓ **Frequently Asked Questions**: [genaixapp.com/faq](https://genaixapp.com/faq)
-
----
-
-<p align="center">
-  <sub>🔒 <i>Note: Gen AI X App is a proprietary commercial SaaS platform developed by Amin Suliman (X00APP100X LTD). The codebase is maintained in a private repository to protect proprietary compiler orchestration and agent pipelines.</i></sub>
-</p>
