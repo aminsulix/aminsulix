@@ -6,7 +6,7 @@ Building developer productivity tooling, visual workflow automation studios, bid
 
 ---
 
-## ⚡ Featured Personal Open-Source Project: [Assign Bot AI](https://github.com/aminsulix/assignbotai)
+## ⚡ Featured Personal Project: [Assign Bot AI](https://github.com/aminsulix/assignbotai)
 
 ### **Visual Workflow Automation Studio & Bidirectional TypeScript Code Generator**
 
@@ -14,22 +14,22 @@ Building developer productivity tooling, visual workflow automation studios, bid
 
 <div align="left">
   <a href="https://github.com/aminsulix/assignbotai">
-    <img src="https://img.shields.io/badge/Repository-aminsulix%2Fassignbotai-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Assign Bot AI Repository" />
+    <img src="https://img.shields.io/badge/Private_Repo-aminsulix%2Fassignbotai-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Assign Bot AI Repository" />
   </a>
-  <a href="https://github.com/aminsulix/assignbotai/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/Ownership-Personal_Open--Source_(MIT)-10B981?style=for-the-badge" alt="Personal Open-Source MIT" />
+  <a href="https://github.com/aminsulix/assignbotai">
+    <img src="https://img.shields.io/badge/Ownership-100%25_Personal_Project_(@aminsulix)-10B981?style=for-the-badge" alt="Personal Project" />
   </a>
-  <a href="https://github.com/aminsulix/assignbotai/blob/main/scripts/agent-studio.js">
+  <a href="https://github.com/aminsulix/assignbotai">
     <img src="https://img.shields.io/badge/Compiler-AssignBotAgentIR_%E2%86%94_TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=white" alt="AssignBotAgentIR Compiler" />
   </a>
-  <a href="https://github.com/aminsulix/assignbotai/blob/main/index.html">
+  <a href="https://github.com/aminsulix/assignbotai">
     <img src="https://img.shields.io/badge/Standard-W3C_WebMCP_Runtime-8B5CF6?style=for-the-badge&logo=w3c&logoColor=white" alt="W3C WebMCP Runtime" />
   </a>
 </div>
 
 ### Why [Assign Bot AI](https://github.com/aminsulix/assignbotai)?
 
-**[Assign Bot AI](https://github.com/aminsulix/assignbotai)** is a **100% personally owned, MIT-licensed open-source project** architected and built by **Amin Suliman (`@aminsulix`)** with zero corporate, employer, or client affiliation:
+**[Assign Bot AI](https://github.com/aminsulix/assignbotai)** is a **100% personally owned software engineering project** architected and built solely by **Amin Suliman (`@aminsulix`)** in a private GitHub repository (`aminsulix/assignbotai`) with zero corporate, employer, or client affiliation:
 - **Unified Intermediate Representation (`AssignBotAgentIR`)**: Compiles natural-language workflow prompts (`compileCustomPromptToIR`) into a single state tree that simultaneously drives a 3-pane split studio:
   1. **Left Pane — Conversational Architect & Point-and-Prompt Node Editor**
   2. **Center Pane — Interactive 5-Node Visual DAG Canvas & Live TypeScript / Mastra Code Compiler (`generateTypeScriptFromIR`)**
@@ -96,7 +96,7 @@ Explore specialized solutions, architectural breakdowns, and competitor matrices
 
 | Solution & Guide | Primary Focus | Direct Link |
 | :--- | :--- | :--- |
-| **Assign Bot AI Studio** | Open-source visual workflow automation studio, `AssignBotAgentIR` compiler & W3C WebMCP runtime. | [github.com/aminsulix/assignbotai](https://github.com/aminsulix/assignbotai) |
+| **Assign Bot AI Studio** | Personally owned visual workflow automation studio, `AssignBotAgentIR` compiler & W3C WebMCP runtime (Private Repo). | [github.com/aminsulix/assignbotai](https://github.com/aminsulix/assignbotai) |
 | **Mobile Vibe Coding** | Conversational prompt-to-app development for iOS & Android with physical device testing. | [genaixapp.com/vibe-coding](https://genaixapp.com/vibe-coding) |
 | **AI Flutter App Builder** | Multi-screen Flutter project synthesis, Dart 3 state architecture, and cloud compiler builds. | [genaixapp.com/flutter-app-builder](https://genaixapp.com/flutter-app-builder) |
 | **AI Coding Agents** | Autonomous agentic loop: multi-file planning, compiler diagnostics, and self-repair. | [genaixapp.com/ai-coding-agents](https://genaixapp.com/ai-coding-agents) |
@@ -107,7 +107,7 @@ Explore specialized solutions, architectural breakdowns, and competitor matrices
 
 ### 🔗 Quick Links
 
-- 🛠️ **Assign Bot AI Repository (Personal Open-Source)**: [github.com/aminsulix/assignbotai](https://github.com/aminsulix/assignbotai)
+- 🔒 **Assign Bot AI Repository (Personal Private Repo)**: [github.com/aminsulix/assignbotai](https://github.com/aminsulix/assignbotai)
 - 🌐 **Gen AI X App Platform**: [genaixapp.com](https://genaixapp.com)
 - 📖 **Documentation**: [genaixapp.com/docs](https://genaixapp.com/docs)
 - ⚙️ **How It Works**: [genaixapp.com/how-it-works](https://genaixapp.com/how-it-works)
